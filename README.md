@@ -1,5 +1,7 @@
 # covid-calendar
 
+[![Run on Repl.it](https://repl.it/badge/github/codeforpdx/covid-calendar)](https://repl.it/github/codeforpdx/covid-calendar)
+
 This project is a collaboration between [Code for PDX](codeforpdx.org) and the Multnomah County Emergency Operations Center.
 
 Please read our [code of conduct](http://www.codeforpdx.org/about/conduct).
