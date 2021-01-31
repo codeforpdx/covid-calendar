@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/covid-calendar/static/css/main.5b9bd1c4.chunk.css",
-    "main.js": "/covid-calendar/static/js/main.29ae693c.chunk.js",
-    "main.js.map": "/covid-calendar/static/js/main.29ae693c.chunk.js.map",
+    "main.css": "/covid-calendar/static/css/main.7020bcd3.chunk.css",
+    "main.js": "/covid-calendar/static/js/main.4e917251.chunk.js",
+    "main.js.map": "/covid-calendar/static/js/main.4e917251.chunk.js.map",
     "runtime-main.js": "/covid-calendar/static/js/runtime-main.d772ebd2.js",
     "runtime-main.js.map": "/covid-calendar/static/js/runtime-main.d772ebd2.js.map",
     "static/css/2.a9b1b95d.chunk.css": "/covid-calendar/static/css/2.a9b1b95d.chunk.css",
     "static/js/2.2c67eea1.chunk.js": "/covid-calendar/static/js/2.2c67eea1.chunk.js",
     "static/js/2.2c67eea1.chunk.js.map": "/covid-calendar/static/js/2.2c67eea1.chunk.js.map",
     "index.html": "/covid-calendar/index.html",
-    "precache-manifest.9f2c3f769c0aa704b5a02b9b61b24edf.js": "/covid-calendar/precache-manifest.9f2c3f769c0aa704b5a02b9b61b24edf.js",
+    "precache-manifest.aa55518f09c3f9436f2b1d0aea9b2813.js": "/covid-calendar/precache-manifest.aa55518f09c3f9436f2b1d0aea9b2813.js",
     "service-worker.js": "/covid-calendar/service-worker.js",
     "static/css/2.a9b1b95d.chunk.css.map": "/covid-calendar/static/css/2.a9b1b95d.chunk.css.map",
-    "static/css/main.5b9bd1c4.chunk.css.map": "/covid-calendar/static/css/main.5b9bd1c4.chunk.css.map",
+    "static/css/main.7020bcd3.chunk.css.map": "/covid-calendar/static/css/main.7020bcd3.chunk.css.map",
     "static/js/2.2c67eea1.chunk.js.LICENSE.txt": "/covid-calendar/static/js/2.2c67eea1.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/covid-calendar/static/media/fa-solid-900.ee09ad75.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d772ebd2.js",
     "static/css/2.a9b1b95d.chunk.css",
     "static/js/2.2c67eea1.chunk.js",
-    "static/css/main.5b9bd1c4.chunk.css",
-    "static/js/main.29ae693c.chunk.js"
+    "static/css/main.7020bcd3.chunk.css",
+    "static/js/main.4e917251.chunk.js"
   ]
 }
