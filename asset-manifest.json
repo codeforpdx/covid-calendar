@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/covid-calendar/static/css/main.f7458922.chunk.css",
-    "main.js": "/covid-calendar/static/js/main.03271a60.chunk.js",
-    "main.js.map": "/covid-calendar/static/js/main.03271a60.chunk.js.map",
+    "main.css": "/covid-calendar/static/css/main.ae248886.chunk.css",
+    "main.js": "/covid-calendar/static/js/main.e12b762c.chunk.js",
+    "main.js.map": "/covid-calendar/static/js/main.e12b762c.chunk.js.map",
     "runtime-main.js": "/covid-calendar/static/js/runtime-main.d772ebd2.js",
     "runtime-main.js.map": "/covid-calendar/static/js/runtime-main.d772ebd2.js.map",
     "static/css/2.ee665b26.chunk.css": "/covid-calendar/static/css/2.ee665b26.chunk.css",
-    "static/js/2.e9c78617.chunk.js": "/covid-calendar/static/js/2.e9c78617.chunk.js",
-    "static/js/2.e9c78617.chunk.js.map": "/covid-calendar/static/js/2.e9c78617.chunk.js.map",
+    "static/js/2.7a40d7a7.chunk.js": "/covid-calendar/static/js/2.7a40d7a7.chunk.js",
+    "static/js/2.7a40d7a7.chunk.js.map": "/covid-calendar/static/js/2.7a40d7a7.chunk.js.map",
     "index.html": "/covid-calendar/index.html",
-    "precache-manifest.e460e1414822af5d866b62b368c621cb.js": "/covid-calendar/precache-manifest.e460e1414822af5d866b62b368c621cb.js",
+    "precache-manifest.9813a0e31c35de3ce50151bbcf2ac84f.js": "/covid-calendar/precache-manifest.9813a0e31c35de3ce50151bbcf2ac84f.js",
     "service-worker.js": "/covid-calendar/service-worker.js",
     "static/css/2.ee665b26.chunk.css.map": "/covid-calendar/static/css/2.ee665b26.chunk.css.map",
-    "static/css/main.f7458922.chunk.css.map": "/covid-calendar/static/css/main.f7458922.chunk.css.map",
-    "static/js/2.e9c78617.chunk.js.LICENSE.txt": "/covid-calendar/static/js/2.e9c78617.chunk.js.LICENSE.txt",
+    "static/css/main.ae248886.chunk.css.map": "/covid-calendar/static/css/main.ae248886.chunk.css.map",
+    "static/js/2.7a40d7a7.chunk.js.LICENSE.txt": "/covid-calendar/static/js/2.7a40d7a7.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/covid-calendar/static/media/fa-solid-900.ee09ad75.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d772ebd2.js",
     "static/css/2.ee665b26.chunk.css",
-    "static/js/2.e9c78617.chunk.js",
-    "static/css/main.f7458922.chunk.css",
-    "static/js/main.03271a60.chunk.js"
+    "static/js/2.7a40d7a7.chunk.js",
+    "static/css/main.ae248886.chunk.css",
+    "static/js/main.e12b762c.chunk.js"
   ]
 }
