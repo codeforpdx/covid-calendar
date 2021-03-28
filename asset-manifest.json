@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/covid-calendar/static/css/main.1ff2c5f5.chunk.css",
-    "main.js": "/covid-calendar/static/js/main.94933795.chunk.js",
-    "main.js.map": "/covid-calendar/static/js/main.94933795.chunk.js.map",
+    "main.css": "/covid-calendar/static/css/main.7fd3707b.chunk.css",
+    "main.js": "/covid-calendar/static/js/main.10aaf1a1.chunk.js",
+    "main.js.map": "/covid-calendar/static/js/main.10aaf1a1.chunk.js.map",
     "runtime-main.js": "/covid-calendar/static/js/runtime-main.d772ebd2.js",
     "runtime-main.js.map": "/covid-calendar/static/js/runtime-main.d772ebd2.js.map",
-    "static/css/2.ee665b26.chunk.css": "/covid-calendar/static/css/2.ee665b26.chunk.css",
-    "static/js/2.ffdf33eb.chunk.js": "/covid-calendar/static/js/2.ffdf33eb.chunk.js",
-    "static/js/2.ffdf33eb.chunk.js.map": "/covid-calendar/static/js/2.ffdf33eb.chunk.js.map",
+    "static/css/2.5a7ac07b.chunk.css": "/covid-calendar/static/css/2.5a7ac07b.chunk.css",
+    "static/js/2.cc5f105a.chunk.js": "/covid-calendar/static/js/2.cc5f105a.chunk.js",
+    "static/js/2.cc5f105a.chunk.js.map": "/covid-calendar/static/js/2.cc5f105a.chunk.js.map",
     "index.html": "/covid-calendar/index.html",
-    "precache-manifest.405e2f3e1f663c54f2c5c0735d940242.js": "/covid-calendar/precache-manifest.405e2f3e1f663c54f2c5c0735d940242.js",
+    "precache-manifest.133b5975031a106fdf02a5f7d7379899.js": "/covid-calendar/precache-manifest.133b5975031a106fdf02a5f7d7379899.js",
     "service-worker.js": "/covid-calendar/service-worker.js",
-    "static/css/2.ee665b26.chunk.css.map": "/covid-calendar/static/css/2.ee665b26.chunk.css.map",
-    "static/css/main.1ff2c5f5.chunk.css.map": "/covid-calendar/static/css/main.1ff2c5f5.chunk.css.map",
-    "static/js/2.ffdf33eb.chunk.js.LICENSE.txt": "/covid-calendar/static/js/2.ffdf33eb.chunk.js.LICENSE.txt",
+    "static/css/2.5a7ac07b.chunk.css.map": "/covid-calendar/static/css/2.5a7ac07b.chunk.css.map",
+    "static/css/main.7fd3707b.chunk.css.map": "/covid-calendar/static/css/main.7fd3707b.chunk.css.map",
+    "static/js/2.cc5f105a.chunk.js.LICENSE.txt": "/covid-calendar/static/js/2.cc5f105a.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/covid-calendar/static/media/fa-solid-900.ee09ad75.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d772ebd2.js",
-    "static/css/2.ee665b26.chunk.css",
-    "static/js/2.ffdf33eb.chunk.js",
-    "static/css/main.1ff2c5f5.chunk.css",
-    "static/js/main.94933795.chunk.js"
+    "static/css/2.5a7ac07b.chunk.css",
+    "static/js/2.cc5f105a.chunk.js",
+    "static/css/main.7fd3707b.chunk.css",
+    "static/js/main.10aaf1a1.chunk.js"
   ]
 }
