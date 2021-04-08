@@ -89,7 +89,7 @@ msgstr "${ props.person.name } ha tenido contacto cercano con ${ props.otherPers
 msgid ""
 "${ props.person.name }'s close contact with ${ props.otherPerson.name } is "
 "ongoing"
-msgstr "<---------------translation needed----------------->"
+msgstr "${ props.person.name } ha tenido contacto cercano con ${ props.otherPerson.name }"
 
 #: src/InHouseExposureQuestion.tsx:52
 #: src/Person.tsx:424
@@ -106,7 +106,7 @@ msgstr "PASO 1"
 
 #: src/Instructions.tsx:18
 msgid "For each person you live with, answer questions about their symptoms."
-msgstr "<---------------translation needed----------------->"
+msgstr "Responda a las siguientes preguntas sobre los síntomas de cada persona que vive en el mismo hogar."
 
 #: src/Instructions.tsx:21
 msgid "STEP 2"
@@ -116,7 +116,9 @@ msgstr "PASO 2"
 msgid ""
 "After inputting your answers, you’ll receive recommendations on what each "
 "person should do to stay safe based on official CDC guidelines."
-msgstr "<---------------translation needed----------------->"
+msgstr ""
+"Después de adquirir sus respuestas, recibirá recomendaciones sobre lo que"
+"cada persona debe hacer para protegerse y que se basan en las pautas oficiales de los CDC"
 
 #: src/Instructions.tsx:26
 msgid "STEP 3"
@@ -124,7 +126,7 @@ msgstr "PASO 3"
 
 #: src/Instructions.tsx:27
 msgid "Tap on a recommendation to learn more about the safety behind it."
-msgstr "<---------------translation needed----------------->"
+msgstr "Para aprender más de la seguridad detrás de una recomendación, presione en ella"
 
 #: src/Person.tsx:134
 #, javascript-format
@@ -405,7 +407,7 @@ msgstr "Hecho"
 
 #: src/Household.tsx:115
 msgid "EDIT ANSWERS"
-msgstr "TRanslation needed"
+msgstr "CORREGIR RESPUESTAS"
 
 #: src/Person.tsx:356
 #, javascript-format
@@ -421,7 +423,7 @@ msgstr ""
 msgid ""
 "If you have further questions, please contact your doctor or a ${ "
 "healthCentersLink }."
-msgstr "<---------------translation needed  ----------->"
+msgstr "Si tiene alguna otra duda sobre su cuidado, comuníquese con su proveedor de atención médica o llame a ${ healthCentersLink }."
 
 #: src/Person.tsx:317
 #, javascript-format
@@ -454,7 +456,7 @@ msgstr "Recursos"
 
 #: src/Resources.tsx:19
 msgid "What is the difference between Quarantine and Isolation?"
-msgstr "<----------- translation needed ---------------->"
+msgstr "¿Cuál es la diferencia entre cuarentena y aislamiento?"
 
 #: src/Resources.tsx:20
 msgid "I can't afford to quarantine or isolate"
