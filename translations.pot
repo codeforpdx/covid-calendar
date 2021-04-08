@@ -63,7 +63,7 @@ msgstr "Empezar"
 #: src/Home.tsx:86
 #: src/Recommendation.tsx:44
 msgid "COVID CALCULATOR"
-msgstr "alculadora para el Covid-19z"
+msgstr "alculadora para el Covid-19"
 
 #: src/Household.tsx:51
 msgid "Tell us about yourself and each person you live with. "
@@ -347,9 +347,7 @@ msgstr ""
 "2-1-1, marque 1 para inglés, 2 para español, y # para cualquier otro idioma. "
 "Hay organizaciones comunitarias que le pueden ayudar con cajas de comida, "
 "el alquiler, y los servicios públicos. También le pueden ayudar a conectarse "
-"con otros beneficios que se califica para recibir.los servicios públicos. "
-"También le pueden ayudar a conectarse con otros beneficios que se califica "
-"para recibir."
+"con otros beneficios que se califica para recibir."
 
 #: src/Resources.tsx:21
 msgid "Where do I get a test?"
