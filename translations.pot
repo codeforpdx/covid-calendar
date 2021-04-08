@@ -384,8 +384,8 @@ msgid ""
 "uninsured and underinsured people. No one is refused care due to an "
 "inability to pay."
 msgstr ""
-"Los centros de salud de Clackamas ofrecen atención en una escala"
-"móvil de tarifas a personas elegibles sin seguro o con seguro insuficiente."
+"Los centros de salud de Clackamas ofrecen atención en una escala "
+"móvil de tarifas a personas elegibles sin seguro o con seguro insuficiente. "
 "A nadie se le niega la atención por no poder pagar."
 
 #: src/Footer.tsx:25
@@ -435,7 +435,7 @@ msgid ""
 "Since ${ guidance.person.name } is feeling sick, we recommend they get a "
 "COVID-19 test."
 msgstr ""
-"Si {guidance.person.name} se siente enferma, debe hacerse una prueba"
+"Si {guidance.person.name} se siente enferma, debe hacerse una prueba "
 "de COVID-19."
 
 #: src/Person.tsx:322
