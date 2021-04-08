@@ -27,7 +27,7 @@ msgid ""
 "with everyone outside their home. This includes work, groceries, and "
 "socializing."
 msgstr ""
-"${ Cuarentena } significa que se queda en casa y lejos de los \n"
+"${ strongQuarantine } significa que se queda en casa y lejos de los \n"
 "demás durante el período recomendado en caso de que esté infectado"
 "y sea contagioso."
 
@@ -35,14 +35,16 @@ msgstr ""
 msgid ""
 "People who must ${ strongIsolate } should keep away from\n"
 "everyone inside and outside the home."
-msgstr "${ strongIsolate } significa que se queda en casa y lejos\n"
+msgstr ""
+"${ strongIsolate } significa que se queda en casa y lejos\n"
 "de otras personas (incluidos los miembros del hogar) durante."
 
 #: src/Home.tsx:32
 msgid ""
 "This calculator determines whether you’ll quarantine or isolate, and for "
 "how long. "
-msgstr "Esta calculadora le ayudará a determinar si usted debe ponerse en cuarentena\n"
+msgstr ""
+"Esta calculadora le ayudará a determinar si usted debe ponerse en cuarentena\n"
 "o aislamiento y durante cuánto tiempo."
 
 #: src/Home.tsx:34
@@ -64,7 +66,7 @@ msgid "COVID CALCULATOR"
 msgstr "alculadora para el Covid-19z"
 
 #: src/Household.tsx:51
-msgid "Tell us about yourself and each person you live with."
+msgid "Tell us about yourself and each person you live with. "
 msgstr "Por favor cuéntenos acerca de usted y de cada persona con quien viva."
 
 #: src/Household.tsx:66
@@ -72,7 +74,7 @@ msgid ""
 "Thank you for doing your part to keep our community safe! For help\n"
 "with a question, tap"
 msgstr ""
-"Gracias por ayudar a mantener nuestra comunidad sana! \n" 
+"Gracias por ayudar a mantener nuestra comunidad sana! \n"
 "Si necesita ayuda para responder una pregunta, presione"
 
 #: src/Household.tsx:178
@@ -89,7 +91,8 @@ msgstr "${ props.person.name } ha tenido contacto cercano con ${ props.otherPers
 msgid ""
 "${ props.person.name }'s close contact with ${ props.otherPerson.name } is "
 "ongoing"
-msgstr "${ props.person.name } ha tenido contacto cercano con ${ props.otherPerson.name }"
+msgstr ""
+"${ props.person.name } ha tenido contacto cercano con ${ props.otherPerson.name }"
 
 #: src/InHouseExposureQuestion.tsx:52
 #: src/Person.tsx:424
@@ -117,7 +120,7 @@ msgid ""
 "After inputting your answers, you’ll receive recommendations on what each "
 "person should do to stay safe based on official CDC guidelines."
 msgstr ""
-"Después de adquirir sus respuestas, recibirá recomendaciones sobre lo que"
+"Después de adquirir sus respuestas, recibirá recomendaciones sobre lo que "
 "cada persona debe hacer para protegerse y que se basan en las pautas oficiales de los CDC"
 
 #: src/Instructions.tsx:26
@@ -125,7 +128,7 @@ msgid "STEP 3"
 msgstr "PASO 3"
 
 #: src/Instructions.tsx:27
-msgid "Tap on a recommendation to learn more about the safety behind it."
+msgid "Tap on a recommendation to learn more about the safety behind it. "
 msgstr "Para aprender más de la seguridad detrás de una recomendación, presione en ella"
 
 #: src/Person.tsx:134
@@ -339,14 +342,14 @@ msgid ""
 "rent, and utilities. They can also help you get connected to other benefits "
 "you are eligible for."
 msgstr ""
-"¡Está disponible la ayuda! Llame al 211 para hablar con un especialista"
-"sobre recursos specíficos del Covid-19 en su comunidad. Cuando marque al" 
-"2-1-1, marque 1 para inglés, 2 para español, y # para cualquier otro idioma."
- "Hay organizaciones comunitarias que le pueden ayudar con cajas de comida, "
- "el alquiler, y los servicios públicos. También le pueden ayudar a conectarse" 
- "con otros beneficios que se califica para recibir.los servicios públicos."
- "También le pueden ayudar a conectarse con otros beneficios que se califica" 
- "para recibir."
+"¡Está disponible la ayuda! Llame al 211 para hablar con un especialista "
+"sobre recursos specíficos del Covid-19 en su comunidad. Cuando marque al "
+"2-1-1, marque 1 para inglés, 2 para español, y # para cualquier otro idioma. "
+"Hay organizaciones comunitarias que le pueden ayudar con cajas de comida, "
+"el alquiler, y los servicios públicos. También le pueden ayudar a conectarse "
+"con otros beneficios que se califica para recibir.los servicios públicos. "
+"También le pueden ayudar a conectarse con otros beneficios que se califica "
+"para recibir."
 
 #: src/Resources.tsx:21
 msgid "Where do I get a test?"
@@ -365,11 +368,11 @@ msgstr "Tengo más preguntas pero no tengo médico de atención primaria"
 msgid ""
 "If you are a Clackamas County resident, reach out to a Clackamas County "
 "health center. To set up care or learn more about any of our health clinics "
-"call 503-655-8471.  "
+"call 503-655-8471."
 msgstr ""
-"Si usted es habitante del condado de Clackamas, póngase en contacto con un centro de"
-"salud del condado de Clackamas. Para obtener más información, regístrese como paciente"
-"o para programar una cita, llame al 503-655-8471.  "
+"Si usted es habitante del condado de Clackamas, póngase en contacto con un centro de "
+"salud del condado de Clackamas. Para obtener más información, regístrese como paciente "
+"o para programar una cita, llame al 503-655-8471."
 
 #: src/Resources.tsx:29
 msgid "If you are not a resident, we recommend checking your local health centers."
@@ -379,11 +382,11 @@ msgstr "Si usted no es habitante, se recomienda que consulte con sus centros de 
 msgid ""
 "Clackamas Health Centers offer care on a sliding scale to eligible "
 "uninsured and underinsured people. No one is refused care due to an "
-"inability to pay. "
+"inability to pay."
 msgstr ""
-"Los centros de salud de Clackamas ofrecen atención en una escala" 
-"móvil de tarifas a personas elegibles sin seguro o con seguro insuficiente." 
-"A nadie se le niega la atención por no poder pagar.
+"Los centros de salud de Clackamas ofrecen atención en una escala"
+"móvil de tarifas a personas elegibles sin seguro o con seguro insuficiente."
+"A nadie se le niega la atención por no poder pagar."
 
 #: src/Footer.tsx:25
 msgid ""
@@ -421,9 +424,10 @@ msgstr ""
 #: src/Household.tsx:83
 #, javascript-format
 msgid ""
-"If you have further questions, please contact your doctor or a ${ "
-"healthCentersLink }."
-msgstr "Si tiene alguna otra duda sobre su cuidado, comuníquese con su proveedor de atención médica o llame a ${ healthCentersLink }."
+"If you have further questions, please contact your doctor or a "
+"${ healthCentersLink }."
+msgstr ""
+"Si tiene alguna otra duda sobre su cuidado, comuníquese con su proveedor de atención médica o llame a ${ healthCentersLink }."
 
 #: src/Person.tsx:317
 #, javascript-format
@@ -439,7 +443,7 @@ msgid ""
 "If ${ guidance.person.name } develops symptoms, they should call a doctor "
 "and get a COVID-19 test."
 msgstr ""
-"Porque {guidance.person.name} se siente mal, se recomienda que se haga" 
+"Porque {guidance.person.name} se siente mal, se recomienda que se haga "
 "la prueba de COVID-19."
 
 #: src/Person.tsx:423
@@ -447,7 +451,7 @@ msgid ""
 "${ person.name } had close contact to someone COVID-19 positive that does "
 "not live with them"
 msgstr ""
-"${ person.name } ha estado en contacto cercano con alguien que dio positivo en COVID" 
+"${ person.name } ha estado en contacto cercano con alguien que dio positivo en COVID "
 "pero que no vive con ellos"
 
 #: src/Resources.tsx:17
