@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0049bc4e6e3bb60541274c878c40b753",
+    "revision": "c6775e56ee60a5d3c7e3ff18d9a6aaa3",
     "url": "/covid-calendar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-calendar/static/css/2.5a7ac07b.chunk.css"
   },
   {
-    "revision": "fee23614f5044d0a853a",
+    "revision": "8a0a9acbfda6a170a9bc",
     "url": "/covid-calendar/static/css/main.5390ca1e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-calendar/static/js/2.777d8a6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fee23614f5044d0a853a",
-    "url": "/covid-calendar/static/js/main.9d09220c.chunk.js"
+    "revision": "8a0a9acbfda6a170a9bc",
+    "url": "/covid-calendar/static/js/main.c458255d.chunk.js"
   },
   {
     "revision": "fd13238340c7c884c719",
