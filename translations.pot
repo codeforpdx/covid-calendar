@@ -458,21 +458,21 @@ msgstr ""
 #: src/Person.tsx:167
 #, javascript-format
 msgid "${ person.name } must isolate through ${ endDate }"
-msgstr ""
+msgstr "${ person.name } debe aislarse hasta ${ endDate }"
 
 #: src/Person.tsx:169
 #, javascript-format
 msgid "${ person.name } must isolate through at least ${ endDate }"
-msgstr ""
+msgstr "${ person.name } debe aislarse hasta al menos ${ endDate }"
 
 #: src/Person.tsx:173
 msgid "${ person.name } must quarantine through at least ${ endDate }"
-msgstr ""
+msgstr "${ person.name } debe ponerse en cuarentena hasta al menos ${ endDate }"
 
 #: src/Person.tsx:175
 #, javascript-format
 msgid "${ person.name } must quarantine through ${ endDate }"
-msgstr ""
+msgstr "${ person.name } debe ponerse en cuarentena hasta ${ endDate }"
 
 #: src/Person.tsx:259
 #, javascript-format
@@ -480,16 +480,21 @@ msgid ""
 "${ guidance.person.name } is fully vaccinated, but they should continue "
 "social distancing and wearing a mask."
 msgstr ""
+"${ guidance.person.name } está completamente vacunado/a pero debe continuar "
+"con el distanciamiento social y seguir usando mascarillas."
 
 #: src/Person.tsx:266
 msgid ""
 "${ guidance.person.name } had close contact with someone who has COVID-19, "
 "but they do not need to quarantine because they are fully vaccinated."
 msgstr ""
+"${ guidance.person.name } ha estado en contacto cercano con alguien que dio "
+"positivo en COVID-19 pero no es necesario que se ponga en cuarentena porque "
+"está completamente vacunado/a."
 
 #: src/Resources.tsx:22
 msgid "Temporary Paid Leave Program"
-msgstr ""
+msgstr "El Programa de Ausencia Temporal Pagada"
 
 #: src/Resources.tsx:38
 #, javascript-format
@@ -497,3 +502,5 @@ msgid ""
 "If you do not have paid time off, you may qualify for the state of Oregon's "
 "${ paidLeaveProgramLink }."
 msgstr ""
+"Si no tiene licencia pagada, puede calificar por ${ paidLeaveProgramLink } "
+"del estado de Oregon."
