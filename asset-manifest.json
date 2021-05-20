@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/covid-calendar/static/css/main.5390ca1e.chunk.css",
-    "main.js": "/covid-calendar/static/js/main.8f556b1a.chunk.js",
-    "main.js.map": "/covid-calendar/static/js/main.8f556b1a.chunk.js.map",
+    "main.js": "/covid-calendar/static/js/main.789246f6.chunk.js",
+    "main.js.map": "/covid-calendar/static/js/main.789246f6.chunk.js.map",
     "runtime-main.js": "/covid-calendar/static/js/runtime-main.d772ebd2.js",
     "runtime-main.js.map": "/covid-calendar/static/js/runtime-main.d772ebd2.js.map",
     "static/css/2.5a7ac07b.chunk.css": "/covid-calendar/static/css/2.5a7ac07b.chunk.css",
     "static/js/2.777d8a6e.chunk.js": "/covid-calendar/static/js/2.777d8a6e.chunk.js",
     "static/js/2.777d8a6e.chunk.js.map": "/covid-calendar/static/js/2.777d8a6e.chunk.js.map",
     "index.html": "/covid-calendar/index.html",
-    "precache-manifest.214bd3be87ea050f96a77cd48cfbbf10.js": "/covid-calendar/precache-manifest.214bd3be87ea050f96a77cd48cfbbf10.js",
+    "precache-manifest.24af379ebee779b6697c383539f7c773.js": "/covid-calendar/precache-manifest.24af379ebee779b6697c383539f7c773.js",
     "service-worker.js": "/covid-calendar/service-worker.js",
     "static/css/2.5a7ac07b.chunk.css.map": "/covid-calendar/static/css/2.5a7ac07b.chunk.css.map",
     "static/css/main.5390ca1e.chunk.css.map": "/covid-calendar/static/css/main.5390ca1e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.5a7ac07b.chunk.css",
     "static/js/2.777d8a6e.chunk.js",
     "static/css/main.5390ca1e.chunk.css",
-    "static/js/main.8f556b1a.chunk.js"
+    "static/js/main.789246f6.chunk.js"
   ]
 }
